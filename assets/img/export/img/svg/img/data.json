@@ -1,0 +1,103 @@
+{
+	"name": "malware002-1.ai",
+	"width": 1834,
+	"height": 2276,
+	"layers": [
+		{
+			"x": "-1824.98",
+			"y": "-2416.94",
+			"r": "-34.26",
+			"b": "-357.91",
+			"width": "1790.72",
+			"height": "2059.03",
+			"layername": "MeroTPoster.svg",
+			"name": "MeroTPoster",
+			"type": "svg",
+			"filename": "MeroTPoster.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "94.86",
+			"y": "-2492.78",
+			"r": "1737.69",
+			"b": "-282.08",
+			"width": "1642.83",
+			"height": "2210.70",
+			"layername": "ThE GuidE.svg",
+			"name": "ThE-GuidE",
+			"type": "svg",
+			"filename": "ThE-GuidE.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "1946.44",
+			"y": "-2243.68",
+			"r": "3593.00",
+			"b": "-531.18",
+			"width": "1646.56",
+			"height": "1712.50",
+			"layername": "OvernighT.svg",
+			"name": "OvernighT",
+			"type": "svg",
+			"filename": "OvernighT.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "3706.44",
+			"y": "-2379.28",
+			"r": "5539.89",
+			"b": "-395.58",
+			"width": "1833.45",
+			"height": "1983.70",
+			"layername": "DarcH-AngeL.svg",
+			"name": "DarcH-AngeL",
+			"type": "svg",
+			"filename": "DarcH-AngeL.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "-1770.90",
+			"y": "25.36",
+			"r": "-101.66",
+			"b": "2249.40",
+			"width": "1669.24",
+			"height": "2224.04",
+			"layername": "MeroT.svg",
+			"name": "MeroT",
+			"type": "svg",
+			"filename": "MeroT.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		},
+		{
+			"x": "169.37",
+			"y": "82.95",
+			"r": "1664.08",
+			"b": "2192.29",
+			"width": "1494.71",
+			"height": "2109.34",
+			"layername": "ZawatH.svg",
+			"name": "ZawatH",
+			"type": "svg",
+			"filename": "ZawatH.svg",
+			"visible": true,
+			"items": [
+				
+			]
+		}
+	]
+}
