@@ -1,0 +1,171 @@
+.version.index /* version checker */
+{
+	color: #0000ED;
+	background-color: #C6A23C;
+}
+
+.html
+{
+	background-color: #1B0000;
+	background: -webkit-gradient(linear, center top, center bottom, from(#1B0000),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,#1B0000 ,#000000 100%);
+	background: -o-linear-gradient(top,#1B0000 ,#000000 100%);
+	background: linear-gradient(to bottom,#1B0000 ,#000000 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr=#FF1B0000, endColorstr=#FF000000, GradientType=0);
+	-ms-filter: "progid:DXImageTransform.Microsoft.gradient(startColorstr='#FF1B0000', endColorstr='#FF000000', GradientType=0)";
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 1515px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#slideshowu191
+{
+	z-index: 2;
+	width: 0.01px;
+	height: 0px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 33px;
+	left: 55px;
+}
+
+#u201
+{
+	position: absolute;
+	background-color: transparent;
+}
+
+#u201popup
+{
+	z-index: 3;
+}
+
+#u202
+{
+	z-index: 4;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u208
+{
+	z-index: 6;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u206
+{
+	z-index: 8;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u210
+{
+	z-index: 10;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u212
+{
+	z-index: 12;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+#u204
+{
+	z-index: 14;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#u308
+{
+	z-index: 16;
+	width: 645px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 870px;
+	left: 158px;
+}
+
+#u307
+{
+	z-index: 17;
+	width: 645px;
+	background: transparent url("../images/u307-grad.png") repeat-x left top;
+	background: -webkit-gradient(linear, center top, center bottom, from(rgba(25, 0, 0, 0)),color-stop(100%, #000000));
+	background: -webkit-linear-gradient(top,rgba(25, 0, 0, 0) ,#000000 100%);
+	background: -o-linear-gradient(top,rgba(25, 0, 0, 0) ,#000000 100%);
+	background: linear-gradient(to bottom,rgba(25, 0, 0, 0) ,#000000 100%);
+	border-color: #000000;
+	-moz-border-radius: 289px;
+	-webkit-border-radius: 289px;
+	-khtml-border-radius: 289px;
+	border-radius: 289px;
+	padding-bottom: 71px;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u303
+{
+	z-index: 18;
+	width: 399px;
+	min-height: 458px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 70px;
+	left: 123px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+	margin-bottom: -870px;
+}
+

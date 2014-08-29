@@ -1,0 +1,29 @@
+<manifest alg="2" build="375" opt="false" iceEnabled="true" exportTarget="other" resolutions="1x,2x" timestamp="1409341471678">
+  <folder name="css">
+    <file name="site_global.css" crc="426517801"/>
+    <file name="index.css" crc="3989217852" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4146222537" ref="index"/>
+    <file name="museutils.js" crc="135030331" ref="index"/>
+    <file name="webpro.js" crc="221070874" ref="index"/>
+    <file name="musewpslideshow.js" crc="4100426672" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="451237455" ref="index"/>
+    <file name="touchswipe.js" crc="381331978" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="377079819" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="a-master-favicon.ico" crc="497308584" ref="index"/>
+    <file name="zawath.png" crc="15434144" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="merot.png" crc="4104453862" ref="index"/>
+    <file name="darch-angel.png" crc="508048882" ref="index"/>
+    <file name="overnight.png" crc="4036842225" ref="index"/>
+    <file name="the-guide.png" crc="395389789" ref="index"/>
+    <file name="merotposter.png" crc="4160829195" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u307-grad.png" crc="354382571" ref="index"/>
+  </folder>
+  <file name="index.html" crc="196511581" mt="1409341329902" redirect="true"/>
+</manifest>
